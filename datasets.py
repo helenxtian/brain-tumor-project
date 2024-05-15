@@ -6,10 +6,11 @@ import torchvision.transforms as transforms
 
 # Custom Dataset Definition
 class BrainTumorMRIDataset(Dataset):
-    def __init__(self, df: pd.DataFrame, transform=None):
+    def __init__(self, df: pd.DataFrame, transform=None, clustering=None):
         super().__init__()
         self.paths = df['image_path'].tolist()
         self.labels = df['label'].tolist()
+        self.clustering = df[clustering].tolist() if clustering else None
         self.transform = transform
         self.classes = sorted(list(df['label'].unique()))
         self.class_to_idx = {cls_name: idx for idx, cls_name in enumerate(self.classes)}
@@ -24,6 +25,7 @@ class BrainTumorMRIDataset(Dataset):
         image = self.load_image(index)
         class_name = self.labels[index]
         class_idx = self.class_to_idx[class_name]
+        clustering_label = self.clustering[index] if self.clustering else None
         if self.transform:
             image = self.transform(image)
-        return image, class_idx
+        return image, class_idx, clustering_label
