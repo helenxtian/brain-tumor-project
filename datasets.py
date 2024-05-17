@@ -25,7 +25,10 @@ class BrainTumorMRIDataset(Dataset):
         image = self.load_image(index)
         class_name = self.labels[index]
         class_idx = self.class_to_idx[class_name]
-        clustering_label = self.clustering[index] if self.clustering else None
+        if self.clustering:
+            clustering_label = self.clustering[index]
+        else:
+            clustering_label = class_idx
         if self.transform:
             image = self.transform(image)
         return image, class_idx, clustering_label
