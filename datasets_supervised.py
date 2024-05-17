@@ -6,19 +6,24 @@ import torchvision.transforms as transforms
 
 # Custom Dataset Definition
 class BrainTumorMRIDataset(Dataset):
-    def __init__(self, dataframe, transform=None):
-        self.dataframe = dataframe
+    def __init__(self, df: pd.DataFrame, transform=None):
+        super().__init__()
+        self.paths = df['image_path'].tolist()
+        self.labels = df['label'].tolist()
         self.transform = transform
-        self.classes = sorted(dataframe['label'].unique())
-        self.class_to_idx = {label: idx for idx, label in enumerate(self.classes)}
+        self.classes = sorted(list(df['label'].unique()))
+        self.class_to_idx = {cls_name: idx for idx, cls_name in enumerate(self.classes)}
+
+    def load_image(self, index: int) -> Image.Image:
+        return Image.open(self.paths[index]).convert('RGB')
 
     def __len__(self):
-        return len(self.dataframe)
+        return len(self.paths)
 
-    def __getitem__(self, idx):
-        img_name = self.dataframe.iloc[idx, 0]
-        image = _load(img_name)
-        label = self.class_to_idx[self.dataframe.iloc[idx, 1]]
+    def __getitem__(self, index: int):
+        image = self.load_image(index)
+        class_name = self.labels[index]
+        class_idx = self.class_to_idx[class_name]
         if self.transform:
             image = self.transform(image)
-        return image, label
+        return image, class_idx
