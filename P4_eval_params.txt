@@ -1,0 +1,736 @@
+MODEL 1
+dropout_rate: 0.0, weight_decay: 0.0, momentum: 0.9, lr: 1e-4
+    Epoch 1/16, Loss: 1.0050, Accuracy: 59.21%
+    Epoch 2/16, Loss: 0.2892, Accuracy: 95.07%
+    Epoch 3/16, Loss: 0.1514, Accuracy: 97.04%
+    Epoch 4/16, Loss: 0.0595, Accuracy: 99.01%
+    Epoch 5/16, Loss: 0.0570, Accuracy: 98.68%
+    Epoch 6/16, Loss: 0.0232, Accuracy: 100.00%
+    Epoch 7/16, Loss: 0.0178, Accuracy: 100.00%
+    Epoch 8/16, Loss: 0.0133, Accuracy: 100.00%
+    Epoch 9/16, Loss: 0.0086, Accuracy: 100.00%
+    Epoch 10/16, Loss: 0.0101, Accuracy: 100.00%
+    Epoch 11/16, Loss: 0.0166, Accuracy: 99.67%
+    Epoch 12/16, Loss: 0.0135, Accuracy: 99.67%
+    Epoch 13/16, Loss: 0.0192, Accuracy: 99.67%
+    Epoch 14/16, Loss: 0.0156, Accuracy: 99.67%
+    Epoch 15/16, Loss: 0.0055, Accuracy: 100.00%
+    Epoch 16/16, Loss: 0.0099, Accuracy: 100.00%
+
+MODEL 2
+dropout_rate: 0.0, weight_decay: 0.0, momentum: 0.9, lr: 1e-3
+    Epoch 1/16, Loss: 1.0437, Accuracy: 56.58%
+    Epoch 2/16, Loss: 0.4211, Accuracy: 91.45%
+    Epoch 3/16, Loss: 0.1659, Accuracy: 96.38%
+    Epoch 4/16, Loss: 0.0892, Accuracy: 99.01%
+    Epoch 5/16, Loss: 0.0492, Accuracy: 99.67%
+    Epoch 6/16, Loss: 0.0370, Accuracy: 99.67%
+    Epoch 7/16, Loss: 0.0140, Accuracy: 100.00%
+    Epoch 8/16, Loss: 0.0167, Accuracy: 100.00%
+    Epoch 9/16, Loss: 0.0302, Accuracy: 99.67%
+    Epoch 10/16, Loss: 0.0240, Accuracy: 99.34%
+    Epoch 11/16, Loss: 0.0118, Accuracy: 99.67%
+    Epoch 12/16, Loss: 0.0219, Accuracy: 99.67%
+    Epoch 13/16, Loss: 0.0204, Accuracy: 99.67%
+    Epoch 14/16, Loss: 0.0157, Accuracy: 99.67%
+    Epoch 15/16, Loss: 0.0096, Accuracy: 100.00%
+    Epoch 16/16, Loss: 0.0170, Accuracy: 99.67%
+
+MODEL 3
+dropout_rate: 0.0, weight_decay: 0.0, momentum: 0.9, lr: 1e-2
+    Epoch 1/16, Loss: 1.0789, Accuracy: 53.95%
+    Epoch 2/16, Loss: 0.3288, Accuracy: 94.74%
+    Epoch 3/16, Loss: 0.1528, Accuracy: 98.03%
+    Epoch 4/16, Loss: 0.0835, Accuracy: 98.36%
+    Epoch 5/16, Loss: 0.0327, Accuracy: 100.00%
+    Epoch 6/16, Loss: 0.0271, Accuracy: 99.67%
+    Epoch 7/16, Loss: 0.0218, Accuracy: 100.00%
+    Epoch 8/16, Loss: 0.0328, Accuracy: 99.67%
+    Epoch 9/16, Loss: 0.0119, Accuracy: 100.00%
+    Epoch 10/16, Loss: 0.0178, Accuracy: 100.00%
+    Epoch 11/16, Loss: 0.0149, Accuracy: 99.67%
+    Epoch 12/16, Loss: 0.0080, Accuracy: 100.00%
+    Epoch 13/16, Loss: 0.0166, Accuracy: 99.67%
+    Epoch 14/16, Loss: 0.0045, Accuracy: 100.00%
+    Epoch 15/16, Loss: 0.0093, Accuracy: 100.00%
+    Epoch 16/16, Loss: 0.0059, Accuracy: 100.00%
+    
+MODEL 4
+dropout_rate: 0.0, weight_decay: 0.0, momentum: 0.95, lr: 1e-4
+    Epoch 1/16, Loss: 1.0160, Accuracy: 55.26%
+    Epoch 2/16, Loss: 0.3554, Accuracy: 92.11%
+    Epoch 3/16, Loss: 0.1064, Accuracy: 99.01%
+    Epoch 4/16, Loss: 0.0860, Accuracy: 99.34%
+    Epoch 5/16, Loss: 0.0467, Accuracy: 99.01%
+    Epoch 6/16, Loss: 0.0348, Accuracy: 99.34%
+    Epoch 7/16, Loss: 0.0176, Accuracy: 100.00%
+    Epoch 8/16, Loss: 0.0132, Accuracy: 100.00%
+    Epoch 9/16, Loss: 0.0296, Accuracy: 99.34%
+    Epoch 10/16, Loss: 0.0219, Accuracy: 99.67%
+    Epoch 11/16, Loss: 0.0201, Accuracy: 99.67%
+    Epoch 12/16, Loss: 0.0191, Accuracy: 99.34%
+    Epoch 13/16, Loss: 0.0305, Accuracy: 99.67%
+    Epoch 14/16, Loss: 0.0155, Accuracy: 99.34%
+    Epoch 15/16, Loss: 0.1122, Accuracy: 98.03%
+    Epoch 16/16, Loss: 0.0714, Accuracy: 98.68%
+    
+MODEL 5
+dropout_rate: 0.0, weight_decay: 0.0, momentum: 0.95, lr: 1e-3
+    Epoch 1/16, Loss: 1.0793, Accuracy: 54.28%
+    Epoch 2/16, Loss: 0.4178, Accuracy: 91.45%
+    Epoch 3/16, Loss: 0.2151, Accuracy: 95.07%
+    Epoch 4/16, Loss: 0.0876, Accuracy: 98.68%
+    Epoch 5/16, Loss: 0.0536, Accuracy: 99.01%
+    Epoch 6/16, Loss: 0.0314, Accuracy: 100.00%
+    Epoch 7/16, Loss: 0.0244, Accuracy: 100.00%
+    Epoch 8/16, Loss: 0.0271, Accuracy: 99.67%
+    Epoch 9/16, Loss: 0.0210, Accuracy: 100.00%
+    Epoch 10/16, Loss: 0.0133, Accuracy: 100.00%
+    Epoch 11/16, Loss: 0.0095, Accuracy: 100.00%
+    Epoch 12/16, Loss: 0.0110, Accuracy: 99.67%
+    Epoch 13/16, Loss: 0.0232, Accuracy: 99.67%
+    Epoch 14/16, Loss: 0.0042, Accuracy: 100.00%
+    Epoch 15/16, Loss: 0.0144, Accuracy: 99.67%
+    Epoch 16/16, Loss: 0.0095, Accuracy: 100.00%
+
+MODEL 6
+dropout_rate: 0.0, weight_decay: 0.0, momentum: 0.95, lr: 1e-2
+    Epoch 1/16, Loss: 0.9584, Accuracy: 62.83%
+    Epoch 2/16, Loss: 0.3178, Accuracy: 93.75%
+    Epoch 3/16, Loss: 0.1257, Accuracy: 98.03%
+    Epoch 4/16, Loss: 0.0736, Accuracy: 98.68%
+    Epoch 5/16, Loss: 0.0423, Accuracy: 99.67%
+    Epoch 6/16, Loss: 0.0321, Accuracy: 100.00%
+    Epoch 7/16, Loss: 0.0151, Accuracy: 100.00%
+    Epoch 8/16, Loss: 0.0183, Accuracy: 100.00%
+    Epoch 9/16, Loss: 0.0269, Accuracy: 99.67%
+    Epoch 10/16, Loss: 0.0102, Accuracy: 100.00%
+    Epoch 11/16, Loss: 0.0078, Accuracy: 100.00%
+    Epoch 12/16, Loss: 0.0060, Accuracy: 100.00%
+    Epoch 13/16, Loss: 0.0129, Accuracy: 99.67%
+    Epoch 14/16, Loss: 0.0046, Accuracy: 100.00%
+    Epoch 15/16, Loss: 0.0109, Accuracy: 100.00%
+    Epoch 16/16, Loss: 0.0038, Accuracy: 100.00%
+
+MODEL 7
+dropout_rate: 0.0, weight_decay: 0.001, momentum: 0.9, lr: 1e-4
+    Epoch 1/16, Loss: 1.0185, Accuracy: 58.55%
+    Epoch 2/16, Loss: 0.2871, Accuracy: 95.39%
+    Epoch 3/16, Loss: 0.1393, Accuracy: 97.04%
+    Epoch 4/16, Loss: 0.0755, Accuracy: 99.01%
+    Epoch 5/16, Loss: 0.0332, Accuracy: 99.67%
+    Epoch 6/16, Loss: 0.0151, Accuracy: 100.00%
+    Epoch 7/16, Loss: 0.0165, Accuracy: 100.00%
+    Epoch 8/16, Loss: 0.0124, Accuracy: 100.00%
+    Epoch 9/16, Loss: 0.0194, Accuracy: 99.67%
+    Epoch 10/16, Loss: 0.0319, Accuracy: 99.67%
+    Epoch 11/16, Loss: 0.0368, Accuracy: 99.34%
+    Epoch 12/16, Loss: 0.0443, Accuracy: 98.68%
+    Epoch 13/16, Loss: 0.0234, Accuracy: 99.34%
+    Epoch 14/16, Loss: 0.0430, Accuracy: 99.34%
+    Epoch 15/16, Loss: 0.0253, Accuracy: 99.67%
+    Epoch 16/16, Loss: 0.0327, Accuracy: 99.34%
+
+MODEL 8
+dropout_rate: 0.0, weight_decay: 0.001, momentum: 0.9, lr: 1e-3
+    Epoch 1/16, Loss: 1.0077, Accuracy: 57.57%
+    Epoch 2/16, Loss: 0.3399, Accuracy: 92.76%
+    Epoch 3/16, Loss: 0.1360, Accuracy: 99.01%
+    Epoch 4/16, Loss: 0.0535, Accuracy: 99.34%
+    Epoch 5/16, Loss: 0.0497, Accuracy: 99.67%
+    Epoch 6/16, Loss: 0.0239, Accuracy: 100.00%
+    Epoch 7/16, Loss: 0.0445, Accuracy: 99.01%
+    Epoch 8/16, Loss: 0.0252, Accuracy: 99.67%
+    Epoch 9/16, Loss: 0.0158, Accuracy: 100.00%
+    Epoch 10/16, Loss: 0.0173, Accuracy: 99.67%
+    Epoch 11/16, Loss: 0.0502, Accuracy: 99.34%
+    Epoch 12/16, Loss: 0.0151, Accuracy: 99.67%
+    Epoch 13/16, Loss: 0.0349, Accuracy: 99.01%
+    Epoch 14/16, Loss: 0.0136, Accuracy: 100.00%
+    Epoch 15/16, Loss: 0.0092, Accuracy: 100.00%
+    Epoch 16/16, Loss: 0.0120, Accuracy: 99.67%
+
+MODEL 9
+dropout_rate: 0.0, weight_decay: 0.001, momentum: 0.9, lr: 1e-2
+    Epoch 1/16, Loss: 1.0859, Accuracy: 52.96%
+    Epoch 2/16, Loss: 0.3357, Accuracy: 93.42%
+    Epoch 3/16, Loss: 0.1523, Accuracy: 97.04%
+    Epoch 4/16, Loss: 0.0681, Accuracy: 99.01%
+    Epoch 5/16, Loss: 0.0411, Accuracy: 99.34%
+    Epoch 6/16, Loss: 0.0223, Accuracy: 99.67%
+    Epoch 7/16, Loss: 0.0222, Accuracy: 99.67%
+    Epoch 8/16, Loss: 0.0106, Accuracy: 100.00%
+    Epoch 9/16, Loss: 0.0141, Accuracy: 100.00%
+    Epoch 10/16, Loss: 0.0100, Accuracy: 100.00%
+    Epoch 11/16, Loss: 0.0160, Accuracy: 99.67%
+    Epoch 12/16, Loss: 0.0086, Accuracy: 100.00%
+    Epoch 13/16, Loss: 0.0101, Accuracy: 100.00%
+    Epoch 14/16, Loss: 0.0085, Accuracy: 99.67%
+    Epoch 15/16, Loss: 0.0075, Accuracy: 100.00%
+    Epoch 16/16, Loss: 0.0132, Accuracy: 99.34%
+
+MODEL 10
+dropout_rate: 0.0, weight_decay: 0.001, momentum: 0.95, lr: 1e-4
+    Epoch 1/16, Loss: 0.9769, Accuracy: 61.51%
+    Epoch 2/16, Loss: 0.4005, Accuracy: 91.78%
+    Epoch 3/16, Loss: 0.1787, Accuracy: 97.37%
+    Epoch 4/16, Loss: 0.0865, Accuracy: 99.01%
+    Epoch 5/16, Loss: 0.0332, Accuracy: 99.67%
+    Epoch 6/16, Loss: 0.0233, Accuracy: 100.00%
+    Epoch 7/16, Loss: 0.0200, Accuracy: 99.67%
+    Epoch 8/16, Loss: 0.0277, Accuracy: 99.34%
+    Epoch 9/16, Loss: 0.0180, Accuracy: 100.00%
+    Epoch 10/16, Loss: 0.0094, Accuracy: 100.00%
+    Epoch 11/16, Loss: 0.0117, Accuracy: 100.00%
+    Epoch 12/16, Loss: 0.0386, Accuracy: 99.34%
+    Epoch 13/16, Loss: 0.0067, Accuracy: 100.00%
+    Epoch 14/16, Loss: 0.0315, Accuracy: 99.34%
+    Epoch 15/16, Loss: 0.0219, Accuracy: 99.67%
+    Epoch 16/16, Loss: 0.0103, Accuracy: 100.00%
+
+MODEL 11
+dropout_rate: 0.0, weight_decay: 0.001, momentum: 0.95, lr: 1e-3
+    Epoch 1/16, Loss: 1.0168, Accuracy: 60.86%
+    Epoch 2/16, Loss: 0.3019, Accuracy: 96.71%
+    Epoch 3/16, Loss: 0.1330, Accuracy: 98.68%
+    Epoch 4/16, Loss: 0.0663, Accuracy: 99.67%
+    Epoch 5/16, Loss: 0.0379, Accuracy: 99.67%
+    Epoch 6/16, Loss: 0.0392, Accuracy: 99.34%
+    Epoch 7/16, Loss: 0.0298, Accuracy: 99.67%
+    Epoch 8/16, Loss: 0.0160, Accuracy: 99.67%
+    Epoch 9/16, Loss: 0.0189, Accuracy: 99.67%
+    Epoch 10/16, Loss: 0.0282, Accuracy: 98.68%
+    Epoch 11/16, Loss: 0.0177, Accuracy: 99.67%
+    Epoch 12/16, Loss: 0.0156, Accuracy: 99.67%
+    Epoch 13/16, Loss: 0.0092, Accuracy: 100.00%
+    Epoch 14/16, Loss: 0.0099, Accuracy: 100.00%
+    Epoch 15/16, Loss: 0.0145, Accuracy: 99.34%
+    Epoch 16/16, Loss: 0.0047, Accuracy: 100.00%
+
+MODEL 12
+dropout_rate: 0.0, weight_decay: 0.001, momentum: 0.95, lr: 1e-2
+    Epoch 1/16, Loss: 1.0129, Accuracy: 59.21%
+    Epoch 2/16, Loss: 0.3653, Accuracy: 90.79%
+    Epoch 3/16, Loss: 0.1344, Accuracy: 98.36%
+    Epoch 4/16, Loss: 0.0599, Accuracy: 99.01%
+    Epoch 5/16, Loss: 0.0494, Accuracy: 99.01%
+    Epoch 6/16, Loss: 0.0198, Accuracy: 100.00%
+    Epoch 7/16, Loss: 0.0187, Accuracy: 100.00%
+    Epoch 8/16, Loss: 0.0208, Accuracy: 99.67%
+    Epoch 9/16, Loss: 0.0106, Accuracy: 100.00%
+    Epoch 10/16, Loss: 0.0143, Accuracy: 100.00%
+    Epoch 11/16, Loss: 0.0445, Accuracy: 98.68%
+    Epoch 12/16, Loss: 0.0428, Accuracy: 99.34%
+    Epoch 13/16, Loss: 0.0205, Accuracy: 100.00%
+    Epoch 14/16, Loss: 0.0126, Accuracy: 100.00%
+    Epoch 15/16, Loss: 0.0169, Accuracy: 100.00%
+    Epoch 16/16, Loss: 0.0087, Accuracy: 100.00%
+
+MODEL 13
+dropout_rate: 0.0, weight_decay: 0.01, momentum: 0.9, lr: 1e-4
+    Epoch 1/16, Loss: 1.0264, Accuracy: 56.91%
+    Epoch 2/16, Loss: 0.3335, Accuracy: 93.75%
+    Epoch 3/16, Loss: 0.1529, Accuracy: 98.03%
+    Epoch 4/16, Loss: 0.0523, Accuracy: 100.00%
+    Epoch 5/16, Loss: 0.0314, Accuracy: 100.00%
+    Epoch 6/16, Loss: 0.0183, Accuracy: 100.00%
+    Epoch 7/16, Loss: 0.0188, Accuracy: 100.00%
+    Epoch 8/16, Loss: 0.0142, Accuracy: 99.67%
+    Epoch 9/16, Loss: 0.0177, Accuracy: 100.00%
+    Epoch 10/16, Loss: 0.0171, Accuracy: 100.00%
+    Epoch 11/16, Loss: 0.0111, Accuracy: 100.00%
+    Epoch 12/16, Loss: 0.0127, Accuracy: 99.67%
+    Epoch 13/16, Loss: 0.0082, Accuracy: 100.00%
+    Epoch 14/16, Loss: 0.0233, Accuracy: 99.01%
+    Epoch 15/16, Loss: 0.0180, Accuracy: 99.34%
+    Epoch 16/16, Loss: 0.0290, Accuracy: 99.01%
+
+MODEL 14
+dropout_rate: 0.0, weight_decay: 0.01, momentum: 0.9, lr: 1e-3
+    Epoch 1/16, Loss: 1.1091, Accuracy: 52.96%
+    Epoch 2/16, Loss: 0.4256, Accuracy: 92.11%
+    Epoch 3/16, Loss: 0.1708, Accuracy: 96.71%
+    Epoch 4/16, Loss: 0.0597, Accuracy: 100.00%
+    Epoch 5/16, Loss: 0.0313, Accuracy: 100.00%
+    Epoch 6/16, Loss: 0.0292, Accuracy: 100.00%
+    Epoch 7/16, Loss: 0.0117, Accuracy: 100.00%
+    Epoch 8/16, Loss: 0.0154, Accuracy: 100.00%
+    Epoch 9/16, Loss: 0.0156, Accuracy: 100.00%
+    Epoch 10/16, Loss: 0.0313, Accuracy: 99.34%
+    Epoch 11/16, Loss: 0.0294, Accuracy: 99.01%
+    Epoch 12/16, Loss: 0.0287, Accuracy: 99.34%
+    Epoch 13/16, Loss: 0.0269, Accuracy: 99.34%
+    Epoch 14/16, Loss: 0.0322, Accuracy: 99.34%
+    Epoch 15/16, Loss: 0.0263, Accuracy: 99.67%
+    Epoch 16/16, Loss: 0.0204, Accuracy: 99.34%
+
+MODEL 15
+dropout_rate: 0.0, weight_decay: 0.01, momentum: 0.9, lr: 1e-2
+    Epoch 1/16, Loss: 0.9809, Accuracy: 61.51%
+    Epoch 2/16, Loss: 0.3134, Accuracy: 93.42%
+    Epoch 3/16, Loss: 0.1311, Accuracy: 98.36%
+    Epoch 4/16, Loss: 0.0624, Accuracy: 99.34%
+    Epoch 5/16, Loss: 0.0338, Accuracy: 99.67%
+    Epoch 6/16, Loss: 0.0257, Accuracy: 100.00%
+    Epoch 7/16, Loss: 0.0211, Accuracy: 99.67%
+    Epoch 8/16, Loss: 0.0122, Accuracy: 100.00%
+    Epoch 9/16, Loss: 0.0397, Accuracy: 98.68%
+    Epoch 10/16, Loss: 0.0351, Accuracy: 99.34%
+    Epoch 11/16, Loss: 0.0189, Accuracy: 99.34%
+    Epoch 12/16, Loss: 0.0215, Accuracy: 99.01%
+    Epoch 13/16, Loss: 0.0102, Accuracy: 100.00%
+    Epoch 14/16, Loss: 0.0168, Accuracy: 99.67%
+    Epoch 15/16, Loss: 0.0149, Accuracy: 99.67%
+    Epoch 16/16, Loss: 0.0116, Accuracy: 99.67%
+
+MODEL 16
+dropout_rate: 0.0, weight_decay: 0.01, momentum: 0.95, lr: 1e-4
+    Epoch 1/16, Loss: 1.0197, Accuracy: 63.82%
+    Epoch 2/16, Loss: 0.3687, Accuracy: 91.78%
+    Epoch 3/16, Loss: 0.1398, Accuracy: 98.68%
+    Epoch 4/16, Loss: 0.0755, Accuracy: 99.01%
+    Epoch 5/16, Loss: 0.0393, Accuracy: 99.67%
+    Epoch 6/16, Loss: 0.0158, Accuracy: 100.00%
+    Epoch 7/16, Loss: 0.0135, Accuracy: 100.00%
+    Epoch 8/16, Loss: 0.0229, Accuracy: 99.67%
+    Epoch 9/16, Loss: 0.0088, Accuracy: 100.00%
+    Epoch 10/16, Loss: 0.0183, Accuracy: 99.67%
+    Epoch 11/16, Loss: 0.0273, Accuracy: 99.67%
+    Epoch 12/16, Loss: 0.0065, Accuracy: 100.00%
+    Epoch 13/16, Loss: 0.0234, Accuracy: 99.67%
+    Epoch 14/16, Loss: 0.0130, Accuracy: 100.00%
+    Epoch 15/16, Loss: 0.0170, Accuracy: 99.67%
+    Epoch 16/16, Loss: 0.0240, Accuracy: 99.34%
+
+MODEL 17
+dropout_rate: 0.0, weight_decay: 0.01, momentum: 0.95, lr: 1e-3
+    Epoch 1/16, Loss: 1.0031, Accuracy: 58.55%
+    Epoch 2/16, Loss: 0.3515, Accuracy: 91.78%
+    Epoch 3/16, Loss: 0.1153, Accuracy: 98.36%
+    Epoch 4/16, Loss: 0.0690, Accuracy: 98.68%
+    Epoch 5/16, Loss: 0.0298, Accuracy: 99.67%
+    Epoch 6/16, Loss: 0.0229, Accuracy: 100.00%
+    Epoch 7/16, Loss: 0.0411, Accuracy: 99.01%
+    Epoch 8/16, Loss: 0.0178, Accuracy: 100.00%
+    Epoch 9/16, Loss: 0.0280, Accuracy: 99.67%
+    Epoch 10/16, Loss: 0.0108, Accuracy: 100.00%
+    Epoch 11/16, Loss: 0.0092, Accuracy: 100.00%
+    Epoch 12/16, Loss: 0.0051, Accuracy: 100.00%
+    Epoch 13/16, Loss: 0.0122, Accuracy: 99.67%
+    Epoch 14/16, Loss: 0.0100, Accuracy: 100.00%
+    Epoch 15/16, Loss: 0.0054, Accuracy: 100.00%
+    Epoch 16/16, Loss: 0.0137, Accuracy: 99.67%
+
+MODEL 18
+dropout_rate: 0.0, weight_decay: 0.01, momentum: 0.95, lr: 1e-2
+    Epoch 1/16, Loss: 1.0319, Accuracy: 57.89%
+    Epoch 2/16, Loss: 0.3539, Accuracy: 94.08%
+    Epoch 3/16, Loss: 0.1366, Accuracy: 98.36%
+    Epoch 4/16, Loss: 0.0839, Accuracy: 98.68%
+    Epoch 5/16, Loss: 0.0326, Accuracy: 99.67%
+    Epoch 6/16, Loss: 0.0367, Accuracy: 99.34%
+    Epoch 7/16, Loss: 0.0468, Accuracy: 99.67%
+    Epoch 8/16, Loss: 0.0273, Accuracy: 99.67%
+    Epoch 9/16, Loss: 0.0193, Accuracy: 99.67%
+    Epoch 10/16, Loss: 0.0284, Accuracy: 99.67%
+    Epoch 11/16, Loss: 0.0228, Accuracy: 99.34%
+    Epoch 12/16, Loss: 0.0415, Accuracy: 98.68%
+    Epoch 13/16, Loss: 0.0311, Accuracy: 99.01%
+    Epoch 14/16, Loss: 0.0195, Accuracy: 99.67%
+    Epoch 15/16, Loss: 0.0256, Accuracy: 99.34%
+    Epoch 16/16, Loss: 0.0499, Accuracy: 99.34%
+
+MODEL 19
+dropout_rate: 0.1, weight_decay: 0.0, momentum: 0.9, lr: 1e-4
+    Epoch 1/16, Loss: 0.7854, Accuracy: 68.09%
+    Epoch 2/16, Loss: 0.5428, Accuracy: 80.26%
+    Epoch 3/16, Loss: 0.3529, Accuracy: 86.84%
+    Epoch 4/16, Loss: 0.4071, Accuracy: 86.84%
+    Epoch 5/16, Loss: 0.3544, Accuracy: 88.82%
+    Epoch 6/16, Loss: 0.2466, Accuracy: 93.42%
+    Epoch 7/16, Loss: 0.2358, Accuracy: 92.11%
+    Epoch 8/16, Loss: 0.1831, Accuracy: 94.74%
+    Epoch 9/16, Loss: 0.0780, Accuracy: 98.68%
+    Epoch 10/16, Loss: 0.1445, Accuracy: 97.70%
+    Epoch 11/16, Loss: 0.1170, Accuracy: 95.72%
+    Epoch 12/16, Loss: 0.1773, Accuracy: 94.41%
+    Epoch 13/16, Loss: 0.1666, Accuracy: 96.71%
+    Epoch 14/16, Loss: 0.1691, Accuracy: 94.41%
+    Epoch 15/16, Loss: 0.0710, Accuracy: 97.37%
+    Epoch 16/16, Loss: 0.0693, Accuracy: 97.04%
+
+MODEL 20
+dropout_rate: 0.1, weight_decay:0.0, momentum: 0.9, lr: 1e-3
+    Epoch 1/16, Loss: 0.9693, Accuracy: 62.17%
+    Epoch 2/16, Loss: 0.4803, Accuracy: 82.57%
+    Epoch 3/16, Loss: 0.4564, Accuracy: 82.24%
+    Epoch 4/16, Loss: 0.3880, Accuracy: 88.16%
+    Epoch 5/16, Loss: 0.4043, Accuracy: 87.17%
+    Epoch 6/16, Loss: 0.2482, Accuracy: 91.78%
+    Epoch 7/16, Loss: 0.1616, Accuracy: 95.07%
+    Epoch 8/16, Loss: 0.1226, Accuracy: 96.38%
+    Epoch 9/16, Loss: 0.2712, Accuracy: 93.75%
+    Epoch 10/16, Loss: 0.1431, Accuracy: 95.39%
+    Epoch 11/16, Loss: 0.0569, Accuracy: 98.68%
+    Epoch 12/16, Loss: 0.0325, Accuracy: 99.34%
+    Epoch 13/16, Loss: 0.1304, Accuracy: 96.05%
+    Epoch 14/16, Loss: 0.1050, Accuracy: 96.71%
+    Epoch 15/16, Loss: 0.0963, Accuracy: 97.70%
+    Epoch 16/16, Loss: 0.0408, Accuracy: 99.01%
+
+MODEL 21
+dropout_rate: 0.1, weight_decay: 0.0, momentum: 0.9, lr: 1e-2
+    Epoch 1/16, Loss: 0.9712, Accuracy: 64.14%
+    Epoch 2/16, Loss: 0.5404, Accuracy: 80.26%
+    Epoch 3/16, Loss: 0.3370, Accuracy: 90.13%
+    Epoch 4/16, Loss: 0.3402, Accuracy: 89.47%
+    Epoch 5/16, Loss: 0.2741, Accuracy: 92.11%
+    Epoch 6/16, Loss: 0.1948, Accuracy: 92.76%
+    Epoch 7/16, Loss: 0.1674, Accuracy: 94.41%
+    Epoch 8/16, Loss: 0.1120, Accuracy: 96.38%
+    Epoch 9/16, Loss: 0.0947, Accuracy: 97.37%
+    Epoch 10/16, Loss: 0.0791, Accuracy: 98.68%
+    Epoch 11/16, Loss: 0.2243, Accuracy: 96.71%
+    Epoch 12/16, Loss: 0.1724, Accuracy: 95.72%
+    Epoch 13/16, Loss: 0.1943, Accuracy: 93.09%
+    Epoch 14/16, Loss: 0.1363, Accuracy: 95.07%
+    Epoch 15/16, Loss: 0.1066, Accuracy: 96.71%
+    Epoch 16/16, Loss: 0.1227, Accuracy: 95.72%
+
+MODEL 22
+dropout_rate: 0.1, weight_decay: 0.0, momentum: 0.95, lr: 1e-4
+    Epoch 1/16, Loss: 0.7919, Accuracy: 70.39%
+    Epoch 2/16, Loss: 0.5037, Accuracy: 83.22%
+    Epoch 3/16, Loss: 0.3019, Accuracy: 90.13%
+    Epoch 4/16, Loss: 0.3337, Accuracy: 91.45%
+    Epoch 5/16, Loss: 0.2062, Accuracy: 93.75%
+    Epoch 6/16, Loss: 0.1573, Accuracy: 96.05%
+    Epoch 7/16, Loss: 0.1915, Accuracy: 94.74%
+    Epoch 8/16, Loss: 0.2124, Accuracy: 94.74%
+    Epoch 9/16, Loss: 0.1478, Accuracy: 95.07%
+    Epoch 10/16, Loss: 0.1152, Accuracy: 95.39%
+    Epoch 11/16, Loss: 0.1350, Accuracy: 94.41%
+    Epoch 12/16, Loss: 0.1283, Accuracy: 96.05%
+    Epoch 13/16, Loss: 0.6831, Accuracy: 89.47%
+    Epoch 14/16, Loss: 0.4619, Accuracy: 90.13%
+    Epoch 15/16, Loss: 0.4056, Accuracy: 91.45%
+    Epoch 16/16, Loss: 0.2235, Accuracy: 92.43%
+
+MODEL 23
+dropout_rate: 0.1, weight_decay: 0.0, momentum: 0.95, lr: 1e-3
+    Epoch 1/16, Loss: 0.8508, Accuracy: 61.18%
+    Epoch 2/16, Loss: 0.5228, Accuracy: 82.57%
+    Epoch 3/16, Loss: 0.4649, Accuracy: 85.86%
+    Epoch 4/16, Loss: 0.3301, Accuracy: 90.79%
+    Epoch 5/16, Loss: 0.1652, Accuracy: 95.39%
+    Epoch 6/16, Loss: 0.2049, Accuracy: 94.08%
+    Epoch 7/16, Loss: 0.2336, Accuracy: 93.42%
+    Epoch 8/16, Loss: 0.2141, Accuracy: 93.42%
+    Epoch 9/16, Loss: 0.3243, Accuracy: 91.45%
+    Epoch 10/16, Loss: 0.1369, Accuracy: 96.38%
+    Epoch 11/16, Loss: 0.0798, Accuracy: 97.04%
+    Epoch 12/16, Loss: 0.0385, Accuracy: 99.01%
+    Epoch 13/16, Loss: 0.0411, Accuracy: 99.01%
+    Epoch 14/16, Loss: 0.0925, Accuracy: 97.04%
+    Epoch 15/16, Loss: 0.1605, Accuracy: 96.71%
+    Epoch 16/16, Loss: 0.1056, Accuracy: 96.71%
+
+MODEL 24
+dropout_rate: 0.1, weight_decay: 0.0, momentum: 0.95, lr: 1e-2
+    Epoch 1/16, Loss: 0.7372, Accuracy: 70.07%
+    Epoch 2/16, Loss: 0.8513, Accuracy: 77.96%
+    Epoch 3/16, Loss: 0.5494, Accuracy: 85.86%
+    Epoch 4/16, Loss: 0.2850, Accuracy: 92.43%
+    Epoch 5/16, Loss: 0.1643, Accuracy: 93.09%
+    Epoch 6/16, Loss: 0.2356, Accuracy: 93.09%
+    Epoch 7/16, Loss: 0.2234, Accuracy: 93.09%
+    Epoch 8/16, Loss: 0.2819, Accuracy: 90.79%
+    Epoch 9/16, Loss: 0.2031, Accuracy: 94.74%
+    Epoch 10/16, Loss: 0.0939, Accuracy: 98.03%
+    Epoch 11/16, Loss: 0.0549, Accuracy: 96.71%
+    Epoch 12/16, Loss: 0.0714, Accuracy: 97.04%
+    Epoch 13/16, Loss: 0.0120, Accuracy: 99.67%
+    Epoch 14/16, Loss: 0.0267, Accuracy: 99.34%
+    Epoch 15/16, Loss: 0.0412, Accuracy: 99.01%
+    Epoch 16/16, Loss: 0.0622, Accuracy: 98.36%
+
+MODEL 25
+dropout_rate: 0.1, weight_decay: 0.001, momentum: 0.9, lr: 1e-4
+    Epoch 1/16, Loss: 0.7521, Accuracy: 71.05%
+    Epoch 2/16, Loss: 0.4677, Accuracy: 87.83%
+    Epoch 3/16, Loss: 0.4247, Accuracy: 87.17%
+    Epoch 4/16, Loss: 0.3077, Accuracy: 91.12%
+    Epoch 5/16, Loss: 0.2289, Accuracy: 94.08%
+    Epoch 6/16, Loss: 0.2158, Accuracy: 95.07%
+    Epoch 7/16, Loss: 0.1547, Accuracy: 94.08%
+    Epoch 8/16, Loss: 0.1050, Accuracy: 97.04%
+    Epoch 9/16, Loss: 0.0900, Accuracy: 98.68%
+    Epoch 10/16, Loss: 0.4340, Accuracy: 90.13%
+    Epoch 11/16, Loss: 0.2477, Accuracy: 93.75%
+    Epoch 12/16, Loss: 0.2154, Accuracy: 93.42%
+    Epoch 13/16, Loss: 0.0602, Accuracy: 98.36%
+    Epoch 14/16, Loss: 0.1091, Accuracy: 96.38%
+    Epoch 15/16, Loss: 0.1904, Accuracy: 93.42%
+    Epoch 16/16, Loss: 0.0940, Accuracy: 97.04%
+
+MODEL 26
+dropout_rate: 0.1, weight_decay: 0.001, momentum: 0.9, lr: 1e-3
+    Epoch 1/16, Loss: 0.7868, Accuracy: 70.07%
+    Epoch 2/16, Loss: 0.6366, Accuracy: 82.57%
+    Epoch 3/16, Loss: 0.6219, Accuracy: 79.28%
+    Epoch 4/16, Loss: 0.5652, Accuracy: 85.86%
+    Epoch 5/16, Loss: 0.3102, Accuracy: 89.14%
+    Epoch 6/16, Loss: 0.1058, Accuracy: 97.04%
+    Epoch 7/16, Loss: 0.1387, Accuracy: 96.38%
+    Epoch 8/16, Loss: 0.2320, Accuracy: 93.42%
+    Epoch 9/16, Loss: 0.1987, Accuracy: 94.74%
+    Epoch 10/16, Loss: 0.1117, Accuracy: 97.04%
+    Epoch 11/16, Loss: 0.1441, Accuracy: 96.38%
+    Epoch 12/16, Loss: 0.0891, Accuracy: 98.03%
+    Epoch 13/16, Loss: 0.1466, Accuracy: 96.05%
+    Epoch 14/16, Loss: 0.0735, Accuracy: 97.37%
+    Epoch 15/16, Loss: 0.0280, Accuracy: 99.67%
+    Epoch 16/16, Loss: 0.1003, Accuracy: 97.37%
+
+MODEL 27
+dropout_rate: 0.1, weight_decay: 0.001, momentum: 0.9, lr: 1e-2
+    Epoch 1/16, Loss: 0.8298, Accuracy: 67.76%
+    Epoch 2/16, Loss: 0.5391, Accuracy: 82.57%
+    Epoch 3/16, Loss: 0.4354, Accuracy: 86.84%
+    Epoch 4/16, Loss: 0.3526, Accuracy: 88.82%
+    Epoch 5/16, Loss: 0.3194, Accuracy: 92.43%
+    Epoch 6/16, Loss: 0.1731, Accuracy: 95.72%
+    Epoch 7/16, Loss: 0.2286, Accuracy: 93.75%
+    Epoch 8/16, Loss: 0.3382, Accuracy: 91.78%
+    Epoch 9/16, Loss: 0.2911, Accuracy: 92.43%
+    Epoch 10/16, Loss: 0.2825, Accuracy: 91.45%
+    Epoch 11/16, Loss: 0.2410, Accuracy: 93.09%
+    Epoch 12/16, Loss: 0.1201, Accuracy: 97.37%
+    Epoch 13/16, Loss: 0.1317, Accuracy: 95.72%
+    Epoch 14/16, Loss: 0.1525, Accuracy: 95.07%
+    Epoch 15/16, Loss: 0.1081, Accuracy: 97.04%
+    Epoch 16/16, Loss: 0.1842, Accuracy: 95.72%
+
+MODEL 28
+dropout_rate: 0.1, weight_decay: 0.001, momentum: 0.95, lr: 1e-4
+    Epoch 1/16, Loss: 0.8058, Accuracy: 70.72%
+    Epoch 2/16, Loss: 0.4822, Accuracy: 85.20%
+    Epoch 3/16, Loss: 0.5147, Accuracy: 82.57%
+    Epoch 4/16, Loss: 0.3092, Accuracy: 92.11%
+    Epoch 5/16, Loss: 0.2818, Accuracy: 91.45%
+    Epoch 6/16, Loss: 0.1080, Accuracy: 97.70%
+    Epoch 7/16, Loss: 0.1626, Accuracy: 94.74%
+    Epoch 8/16, Loss: 0.1786, Accuracy: 94.41%
+    Epoch 9/16, Loss: 0.2694, Accuracy: 93.42%
+    Epoch 10/16, Loss: 0.2062, Accuracy: 96.38%
+    Epoch 11/16, Loss: 0.2690, Accuracy: 91.45%
+    Epoch 12/16, Loss: 0.2036, Accuracy: 94.41%
+    Epoch 13/16, Loss: 0.1773, Accuracy: 94.41%
+    Epoch 14/16, Loss: 0.2153, Accuracy: 96.05%
+    Epoch 15/16, Loss: 0.1401, Accuracy: 95.07%
+    Epoch 16/16, Loss: 0.0824, Accuracy: 96.71%
+
+MODEL 29
+dropout_rate: 0.1, weight_decay: 0.001, momentum: 0.95, lr: 1e-3
+    Epoch 1/16, Loss: 0.8126, Accuracy: 66.12%
+    Epoch 2/16, Loss: 0.7483, Accuracy: 77.63%
+    Epoch 3/16, Loss: 0.3775, Accuracy: 87.83%
+    Epoch 4/16, Loss: 0.3951, Accuracy: 86.84%
+    Epoch 5/16, Loss: 0.3489, Accuracy: 85.86%
+    Epoch 6/16, Loss: 0.1526, Accuracy: 95.72%
+    Epoch 7/16, Loss: 0.1612, Accuracy: 93.75%
+    Epoch 8/16, Loss: 0.1708, Accuracy: 94.74%
+    Epoch 9/16, Loss: 0.1740, Accuracy: 95.07%
+    Epoch 10/16, Loss: 0.0815, Accuracy: 97.04%
+    Epoch 11/16, Loss: 0.0826, Accuracy: 98.36%
+    Epoch 12/16, Loss: 0.2054, Accuracy: 93.75%
+    Epoch 13/16, Loss: 0.2143, Accuracy: 92.11%
+    Epoch 14/16, Loss: 0.0883, Accuracy: 96.71%
+    Epoch 15/16, Loss: 0.0972, Accuracy: 98.03%
+    Epoch 16/16, Loss: 0.1348, Accuracy: 96.05%
+
+MODEL 30
+dropout_rate: 0.1, weight_decay: 0.001, momentum: 0.95, lr: 1e-2
+    Epoch 1/16, Loss: 0.8282, Accuracy: 65.13%
+    Epoch 2/16, Loss: 0.4982, Accuracy: 79.93%
+    Epoch 3/16, Loss: 0.5486, Accuracy: 87.17%
+    Epoch 4/16, Loss: 0.4360, Accuracy: 88.16%
+    Epoch 5/16, Loss: 0.3686, Accuracy: 87.17%
+    Epoch 6/16, Loss: 0.2064, Accuracy: 92.43%
+    Epoch 7/16, Loss: 0.1934, Accuracy: 93.09%
+    Epoch 8/16, Loss: 0.1519, Accuracy: 94.74%
+    Epoch 9/16, Loss: 0.2026, Accuracy: 93.75%
+    Epoch 10/16, Loss: 0.2045, Accuracy: 93.75%
+    Epoch 11/16, Loss: 0.1689, Accuracy: 94.41%
+    Epoch 12/16, Loss: 0.0627, Accuracy: 98.68%
+    Epoch 13/16, Loss: 0.0890, Accuracy: 97.70%
+    Epoch 14/16, Loss: 0.1309, Accuracy: 96.38%
+    Epoch 15/16, Loss: 0.1190, Accuracy: 97.04%
+    Epoch 16/16, Loss: 0.0778, Accuracy: 99.34%
+
+MODEL 31
+dropout_rate: 0.1, weight_decay: 0.01, momentum: 0.9, lr: 1e-4
+    Epoch 1/16, Loss: 0.8117, Accuracy: 63.16%
+    Epoch 2/16, Loss: 0.6741, Accuracy: 77.63%
+    Epoch 3/16, Loss: 0.5096, Accuracy: 87.50%
+    Epoch 4/16, Loss: 0.3959, Accuracy: 87.83%
+    Epoch 5/16, Loss: 0.2882, Accuracy: 91.45%
+    Epoch 6/16, Loss: 0.2968, Accuracy: 89.14%
+    Epoch 7/16, Loss: 0.2184, Accuracy: 94.08%
+    Epoch 8/16, Loss: 0.2194, Accuracy: 94.74%
+    Epoch 9/16, Loss: 0.1447, Accuracy: 97.04%
+    Epoch 10/16, Loss: 0.0614, Accuracy: 97.37%
+    Epoch 11/16, Loss: 0.0971, Accuracy: 96.05%
+    Epoch 12/16, Loss: 0.0822, Accuracy: 98.36%
+    Epoch 13/16, Loss: 0.0928, Accuracy: 95.72%
+    Epoch 14/16, Loss: 0.1447, Accuracy: 97.37%
+    Epoch 15/16, Loss: 0.2419, Accuracy: 92.43%
+    Epoch 16/16, Loss: 0.2377, Accuracy: 92.11%
+
+MODEL 32
+dropout_rate: 0.1, weight_decay: 0.01, momentum: 0.9, lr: 1e-3
+    Epoch 1/16, Loss: 0.8810, Accuracy: 63.82%
+    Epoch 2/16, Loss: 0.4993, Accuracy: 81.25%
+    Epoch 3/16, Loss: 0.3440, Accuracy: 90.79%
+    Epoch 4/16, Loss: 0.3610, Accuracy: 86.84%
+    Epoch 5/16, Loss: 0.2506, Accuracy: 91.45%
+    Epoch 6/16, Loss: 0.1498, Accuracy: 95.39%
+    Epoch 7/16, Loss: 0.1197, Accuracy: 96.38%
+    Epoch 8/16, Loss: 0.1905, Accuracy: 93.09%
+    Epoch 9/16, Loss: 0.2217, Accuracy: 90.79%
+    Epoch 10/16, Loss: 0.1307, Accuracy: 96.05%
+    Epoch 11/16, Loss: 0.1611, Accuracy: 95.72%
+    Epoch 12/16, Loss: 0.1947, Accuracy: 95.72%
+    Epoch 13/16, Loss: 0.0607, Accuracy: 99.01%
+    Epoch 14/16, Loss: 0.0955, Accuracy: 98.03%
+    Epoch 15/16, Loss: 0.0863, Accuracy: 97.37%
+    Epoch 16/16, Loss: 0.0652, Accuracy: 97.70%
+
+MODEL 33
+dropout_rate: 0.1, weight_decay: 0.01, momentum: 0.9, lr: 1e-2
+    Epoch 1/16, Loss: 0.8197, Accuracy: 67.11%
+    Epoch 2/16, Loss: 0.5050, Accuracy: 84.21%
+    Epoch 3/16, Loss: 0.3495, Accuracy: 87.50%
+    Epoch 4/16, Loss: 0.2718, Accuracy: 91.12%
+    Epoch 5/16, Loss: 0.3717, Accuracy: 89.47%
+    Epoch 6/16, Loss: 0.2119, Accuracy: 93.75%
+    Epoch 7/16, Loss: 0.0557, Accuracy: 98.68%
+    Epoch 8/16, Loss: 0.0692, Accuracy: 97.70%
+    Epoch 9/16, Loss: 0.2649, Accuracy: 94.08%
+    Epoch 10/16, Loss: 0.0903, Accuracy: 97.04%
+    Epoch 11/16, Loss: 0.1590, Accuracy: 93.75%
+    Epoch 12/16, Loss: 0.2828, Accuracy: 90.79%
+    Epoch 13/16, Loss: 0.2529, Accuracy: 93.75%
+    Epoch 14/16, Loss: 0.2195, Accuracy: 92.76%
+    Epoch 15/16, Loss: 0.1713, Accuracy: 95.39%
+    Epoch 16/16, Loss: 0.0590, Accuracy: 98.03%
+
+MODEL 34
+dropout_rate: 0.1, weight_decay: 0.01, momentum: 0.95, lr: 1e-4
+    Epoch 1/16, Loss: 0.7532, Accuracy: 68.75%
+    Epoch 2/16, Loss: 0.6138, Accuracy: 81.58%
+    Epoch 3/16, Loss: 0.4830, Accuracy: 83.22%
+    Epoch 4/16, Loss: 0.2367, Accuracy: 92.76%
+    Epoch 5/16, Loss: 0.2713, Accuracy: 93.75%
+    Epoch 6/16, Loss: 0.2673, Accuracy: 92.11%
+    Epoch 7/16, Loss: 0.1349, Accuracy: 96.05%
+    Epoch 8/16, Loss: 0.2146, Accuracy: 94.41%
+    Epoch 9/16, Loss: 0.1207, Accuracy: 96.38%
+    Epoch 10/16, Loss: 0.0849, Accuracy: 97.37%
+    Epoch 11/16, Loss: 0.0808, Accuracy: 98.36%
+    Epoch 12/16, Loss: 0.0642, Accuracy: 98.36%
+    Epoch 13/16, Loss: 0.0455, Accuracy: 98.68%
+    Epoch 14/16, Loss: 0.0712, Accuracy: 97.70%
+    Epoch 15/16, Loss: 0.0345, Accuracy: 98.68%
+    Epoch 16/16, Loss: 0.0737, Accuracy: 97.37%
+
+MODEL 35
+dropout_rate: 0.1, weight_decay: 0.01, momentum: 0.95, lr: 1e-3
+    Epoch 1/16, Loss: 0.8857, Accuracy: 62.83%
+    Epoch 2/16, Loss: 0.5956, Accuracy: 82.57%
+    Epoch 3/16, Loss: 0.4536, Accuracy: 85.53%
+    Epoch 4/16, Loss: 0.4782, Accuracy: 85.53%
+    Epoch 5/16, Loss: 0.3109, Accuracy: 90.46%
+    Epoch 6/16, Loss: 0.2743, Accuracy: 91.45%
+    Epoch 7/16, Loss: 0.1580, Accuracy: 94.74%
+    Epoch 8/16, Loss: 0.2362, Accuracy: 93.75%
+    Epoch 9/16, Loss: 0.1271, Accuracy: 95.72%
+    Epoch 10/16, Loss: 0.1851, Accuracy: 94.74%
+    Epoch 11/16, Loss: 0.1115, Accuracy: 95.72%
+    Epoch 12/16, Loss: 0.2188, Accuracy: 93.42%
+    Epoch 13/16, Loss: 0.1177, Accuracy: 97.04%
+    Epoch 14/16, Loss: 0.1423, Accuracy: 97.37%
+    Epoch 15/16, Loss: 0.1395, Accuracy: 95.72%
+    Epoch 16/16, Loss: 0.2034, Accuracy: 91.78%
+
+MODEL 36
+dropout_rate: 0.1, weight_decay: 0.01, momentum: 0.95, lr: 1e-2
+    Epoch 1/16, Loss: 0.8629, Accuracy: 68.09%
+    Epoch 2/16, Loss: 0.7211, Accuracy: 79.61%
+    Epoch 3/16, Loss: 0.3739, Accuracy: 87.17%
+    Epoch 4/16, Loss: 0.3348, Accuracy: 91.78%
+    Epoch 5/16, Loss: 0.3201, Accuracy: 90.79%
+    Epoch 6/16, Loss: 0.2219, Accuracy: 92.43%
+    Epoch 7/16, Loss: 0.1554, Accuracy: 94.41%
+    Epoch 8/16, Loss: 0.2976, Accuracy: 91.78%
+    Epoch 9/16, Loss: 0.1541, Accuracy: 96.71%
+    Epoch 10/16, Loss: 0.1409, Accuracy: 96.71%
+    Epoch 11/16, Loss: 0.0542, Accuracy: 98.36%
+    Epoch 12/16, Loss: 0.0869, Accuracy: 97.37%
+    Epoch 13/16, Loss: 0.1165, Accuracy: 97.04%
+    Epoch 14/16, Loss: 0.3845, Accuracy: 90.79%
+    Epoch 15/16, Loss: 0.1825, Accuracy: 94.74%
+    Epoch 16/16, Loss: 0.1129, Accuracy: 96.05%
+
+MODEL 37
+dropout_rate: 0.2, weight_decay: 0.0, momentum: 0.9, lr: 1e-4
+    Epoch 1/16, Loss: 2.2794, Accuracy: 28.29%
+    Epoch 2/16, Loss: 1.3805, Accuracy: 34.87%
+    Epoch 3/16, Loss: 1.4270, Accuracy: 33.22%
+    Epoch 4/16, Loss: 1.3258, Accuracy: 39.14%
+    Epoch 5/16, Loss: 1.6512, Accuracy: 41.12%
+    Epoch 6/16, Loss: 1.5864, Accuracy: 38.49%
+    Epoch 7/16, Loss: 1.3979, Accuracy: 46.05%
+    Epoch 8/16, Loss: 1.2718, Accuracy: 47.04%
+    Epoch 9/16, Loss: 1.1743, Accuracy: 56.25%
+    Epoch 10/16, Loss: 1.2401, Accuracy: 54.61%
+    Epoch 11/16, Loss: 1.2187, Accuracy: 57.24%
+    Epoch 12/16, Loss: 1.0760, Accuracy: 59.21%
+    Epoch 13/16, Loss: 1.0506, Accuracy: 62.83%
+    Epoch 14/16, Loss: 1.0408, Accuracy: 60.20%
+    Epoch 15/16, Loss: 1.0145, Accuracy: 62.50%
+    Epoch 16/16, Loss: 1.0709, Accuracy: 58.55%
+
+MODEL 38
+dropout_rate: 0.2, weight_decay: 0.0, momentum: 0.9, lr: 1e-3
+    Epoch 1/16, Loss: 2.3933, Accuracy: 23.68%
+    Epoch 2/16, Loss: 1.5714, Accuracy: 33.88%
+    Epoch 3/16, Loss: 1.4854, Accuracy: 29.93%
+    Epoch 4/16, Loss: 1.3275, Accuracy: 39.14%
+    Epoch 5/16, Loss: 1.2208, Accuracy: 43.42%
+    Epoch 6/16, Loss: 1.1581, Accuracy: 49.34%
+    Epoch 7/16, Loss: 1.0634, Accuracy: 58.22%
+    Epoch 8/16, Loss: 1.0798, Accuracy: 59.54%
+    Epoch 9/16, Loss: 1.0989, Accuracy: 55.26%
+    Epoch 10/16, Loss: 0.9509, Accuracy: 62.17%
+    Epoch 11/16, Loss: 1.0398, Accuracy: 59.87%
+    Epoch 12/16, Loss: 1.0750, Accuracy: 51.32%
+    Epoch 13/16, Loss: 1.0652, Accuracy: 54.61%
+    Epoch 14/16, Loss: 0.9903, Accuracy: 64.47%
+    Epoch 15/16, Loss: 1.0730, Accuracy: 56.58%
+    Epoch 16/16, Loss: 1.1208, Accuracy: 54.28%
+
+MODEL 39
+dropout_rate: 0.2, weight_decay: 0.0, momentum: 0.9, lr: 1e-2
+    Epoch 1/16, Loss: 2.9729, Accuracy: 24.01%
+    Epoch 2/16, Loss: 2.0385, Accuracy: 34.87%
+    Epoch 3/16, Loss: 1.6371, Accuracy: 33.55%
+    Epoch 4/16, Loss: 1.4581, Accuracy: 39.14%
+    Epoch 5/16, Loss: 1.3959, Accuracy: 43.42%
+    Epoch 6/16, Loss: 1.2259, Accuracy: 44.74%
+    Epoch 7/16, Loss: 1.1809, Accuracy: 46.38%
+    Epoch 8/16, Loss: 1.2628, Accuracy: 42.76%
+    Epoch 9/16, Loss: 1.3524, Accuracy: 39.14%
+    Epoch 10/16, Loss: 1.0710, Accuracy: 50.00%
+    Epoch 11/16, Loss: 1.2649, Accuracy: 49.01%
+    Epoch 12/16, Loss: 1.1121, Accuracy: 54.61%
